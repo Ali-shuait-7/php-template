@@ -1,0 +1,40 @@
+# Ignore Composer dependencies
+/vendor/
+
+# Ignore Laravel environment files
+.env
+
+# Ignore IDE files
+/.idea/
+/.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore node modules if using Node.js
+node_modules/
+
+# Ignore compiled files
+*.o
+*.so
+*.dll
+*.exe
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore coverage reports
+coverage/
+
+# Ignore PHPUnit result cache
+.phpunit.result.cache
+
+# Ignore other files
+*.bak
+*.swp
+*.swo
